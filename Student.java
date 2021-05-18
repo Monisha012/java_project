@@ -1,6 +1,4 @@
-Jan_21_April_21 Programming in java
-Open Elective
-Design a simple Application of your choice ,Apply the concept of Constructor, inheritance ,Interface, Package and User defined Exception
+
 
 package project;
 import java.util.*;
